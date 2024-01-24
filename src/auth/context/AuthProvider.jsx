@@ -3,7 +3,7 @@ import React, { useReducer } from 'react'
 import { authReducer } from './authReducer'
 import { AuthContext } from './AuthContext'
 import { types } from '../types/types'
-import { json } from 'react-router-dom'
+
 
 // const initialState = {
 //     logged: false,
